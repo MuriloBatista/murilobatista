@@ -28,6 +28,9 @@ para a area de desenvolvimento, focado em me tornar um **Desenvolvedor Web Full-
 
 -🍕🍖🍔🍻 Pizza, churrasco, hamburguer, cerveja (não necessáriamente nessa ordem).
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloBatista&show_icons=true&theme=default)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuriloBatista&layout=compact)](https://github.com/MuriloBatista)
+
 
 
 **Caso queira me perguntar qualquer coisa ou para mais informações ao meu respeito**:
