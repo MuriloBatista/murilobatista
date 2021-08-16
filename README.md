@@ -11,24 +11,10 @@ para a area de desenvolvimento, focado em me tornar um **Desenvolvedor Web Full-
 
 ###### Atualmente:
 
--💻 Finalizando o modulo de front-end!
-
--🛠 Ampliando a caixa de ferramentas buscando a compreensão React/Redux/React-Hooks;
+-💻 Estudando  Desenvolvimento Back-end!
 
 -💸 Procurando um trabalho.
 
-
-###### Enteresses e hobbies:
- 
--🎼🎸 Tocar e continuar aprendendo.
-
--⚽ Especialista em aumentar a dificuldade para o meu time em partidas de futebol ( sou bom nisso ).
-
--🎮 Jogador de Moba/RPG/MMO 4fun.
-
--🍕🍖🍔🍻 Pizza, churrasco, hamburguer, cerveja (não necessáriamente nessa ordem).
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuriloBatista&show_icons=true&theme=default)
 
 
 
