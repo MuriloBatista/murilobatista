@@ -11,7 +11,7 @@ para a area de desenvolvimento, focado em me tornar um **Desenvolvedor Web Full-
 
 ###### Atualmente:
 
--💻 Estudando desenvolvimento Web!
+-💻 Estudando desenvolvimento!
 
 -💸 Procurando um trabalho.
 
